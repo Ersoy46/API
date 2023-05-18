@@ -17,6 +17,6 @@ public class GetRequest07 extends RegresinBaseUrl {
 
         response.prettyPrint();
 
-        //SAYFAYA ULAŞILMIYOR 404 HATASIIIII
+        //SAYFAYA ULAŞILMIYOR 404 HATASI
     }
 }
