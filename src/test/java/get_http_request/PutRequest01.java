@@ -9,7 +9,7 @@ import static io.restassured.RestAssured.given;
 public class PutRequest01 {
 
     @Test
-    public JSONObject test01(){
+    public JSONObject setUpPutData(){
 
         JSONObject expectedRequest=new JSONObject();
         expectedRequest.put("userId",21);
